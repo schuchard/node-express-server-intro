@@ -1,0 +1,24 @@
+{
+  "name": "node-express-server-intro",
+  "version": "1.0.0",
+  "description": "## Description",
+  "main": "middleware.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schuchard/node-express-server-intro.git"
+  },
+  "keywords": [],
+  "author": "Kevin Schuchard <schuchard.kevin@gmail.com> (kevinschuchard.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schuchard/node-express-server-intro/issues"
+  },
+  "homepage": "https://github.com/schuchard/node-express-server-intro#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
